@@ -1,8 +1,8 @@
 .link {
-        color: #03FCFC;
+    color: #03FCFC;
 }
 .link:hover {
-        color: #00FF00;
+    color: #00FF00;
 }
 
 .row-header {
@@ -21,7 +21,7 @@
 	background-color: #3C3BFA;
 	margin: 0px auto;
 	padding: 20px 0px 20px 0px;
-        color: floralwhite;
+    color: floralwhite;
 }
 
 .jumbotron {
