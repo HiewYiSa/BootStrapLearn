@@ -1,8 +1,8 @@
 .link {
-    color: #03FCFC;
+        color: #03FCFC;
 }
 .link:hover {
-    color: #00FF00;
+        color: #00FF00;
 }
 
 .row-header {
@@ -21,7 +21,7 @@
 	background-color: #3C3BFA;
 	margin: 0px auto;
 	padding: 20px 0px 20px 0px;
-    color: floralwhite;
+        color: floralwhite;
 }
 
 .jumbotron {
@@ -34,7 +34,6 @@
 .address {
 	font-size: 80%;
 	margin: 0px auto;
-	link;
 }
 
 body {
@@ -66,4 +65,10 @@ body {
 	top: 0;
 	left: 0;
 	min-height: 300px;
+}
+
+#carouselButton {
+	right: 0px;
+	position: absolute;
+	bottom: 0px;
 }
