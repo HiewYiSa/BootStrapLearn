@@ -40,7 +40,7 @@ address {
 
 body {
 	padding: 50px 0px 0px 0px;
-	z-index: 0:
+	z-index: 0;
 }
 
 .navbar-dark {
@@ -73,3 +73,15 @@ body {
 	bottom: 0px;
 }
 
+.modal-content {
+	.modal-header {
+		background: $background-dark;
+		color: floralwhite;
+		.close {
+			color: floralwhite;
+		}
+	}
+	.modal-body {
+		background: $background-pale;
+	}
+}
